@@ -19,8 +19,7 @@ Se enfoca en replicar la aparencia visual de Pinterest, ofreciendo una experienc
 + **Google Fonts:** Para fuentes personalzadas.
 
 ### Vista Previa del Proyecto
-
----Pendiente ---
+![Demo](imagenes/Screen_Pinterest.jpg)
 
 ### Contacto
 Si te gustataría invitarme a colaborar en un proyecto escribe por [Linkedln](https://www.linkedin.com/in/frida-lizeth-torres-montenegro-1216a62ab/)
